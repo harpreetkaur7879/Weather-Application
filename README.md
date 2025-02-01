@@ -8,6 +8,9 @@ A sleek weather application built with React, Material UI, and a Weather API. Ge
 ✅ Dynamic Icons & Backgrounds – Weather-based icons and UI themes.
 ✅ Temperature, Humidity, Wind Speed & More – Detailed weather insights.
 
+🎨 UI Preview
+weather application.png
+
 🛠️ Tech Stack
 Frontend	API & Data
 ⚛️ React.js	🌍 OpenWeather API 
