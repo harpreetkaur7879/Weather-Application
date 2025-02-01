@@ -9,6 +9,7 @@ A sleek weather application built with React, Material UI, and a Weather API. Ge
 ✅ Temperature, Humidity, Wind Speed & More – Detailed weather insights.
 
 🎨 UI Preview
+weather app snapshot.png
 weather application.png
 
 🛠️ Tech Stack
