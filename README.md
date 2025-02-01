@@ -10,7 +10,6 @@ A sleek weather application built with React, Material UI, and a Weather API. Ge
 
 🎨 UI Preview
 weather app snapshot.png
-weather application.png
 
 🛠️ Tech Stack
 Frontend	API & Data
